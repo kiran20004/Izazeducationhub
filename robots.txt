@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiran20004.github.io/Izazeducationhub/sitemap.xml
